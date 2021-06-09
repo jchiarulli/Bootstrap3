@@ -1,0 +1,10 @@
+.container {
+  background: #ccc;
+  margin: 50px auto;
+  height: 200px;
+}
+.container-fluid {
+  background: #ccc;
+  margin: 50px auto;
+  height: 200px;
+}

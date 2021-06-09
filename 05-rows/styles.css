@@ -1,0 +1,25 @@
+.content {
+  background: #f4f4f4;
+  padding-bottom: 150px;
+  padding-top: 25px;
+}
+
+.sidebar {
+  background: #ccc;
+  padding-bottom: 150px;
+  padding-top: 25px;
+}
+
+.thumb {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.thumb:nth-of-type(odd) {
+  background: #ccc;
+}
+
+.thumb:nth-of-type(even) {
+  background: #f4f4f4;
+}

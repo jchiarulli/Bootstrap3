@@ -1,0 +1,25 @@
+.thumb {
+  text-align: center;
+  padding: 60px 10px;
+  background: #ddd;
+}
+
+.thumb:nth-child(even) {
+  background: #eee;
+}
+
+/* Used as a replacement to clearfix if you're using Bootstrap3 */
+/* .thumb:nth-child(odd) {
+  clear: both;
+} */
+
+h1,
+h2 {
+  margin: 30px 0;
+}
+
+.container-fluid,
+.container {
+  margin: 50px auto;
+  height: 200px;
+}
